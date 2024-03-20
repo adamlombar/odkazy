@@ -1,0 +1,26 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+.cernylidi{
+  background-color: red;
+  text-align: center;
+  font-size: 60px;
+}
+
+.cervenylidi{
+  background-color: #bdffc1;
+  font-size: 60px;
+}
+.nevim{
+  text-align: center;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 70px;
+}
+.zlutylidi{
+  background-color: black;
+  text-align: center;
+  color: #00ffe1;
+  font-size: 60px;
+  text-shadow: blue;
+}
